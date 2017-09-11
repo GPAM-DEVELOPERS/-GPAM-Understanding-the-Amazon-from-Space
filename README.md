@@ -10,9 +10,9 @@ Utilize um ambiente virtual como o [**virtualenv**](https://virtualenv.pypa.io/e
 
 * Comando de instalação
   
-  ``` 
-  pip3 install -r requirements.txt
-  ```
+``` 
+pip3 install -r requirements.txt
+```
 * Comando de atualização das dependências
 
  
